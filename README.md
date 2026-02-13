@@ -1,4 +1,13 @@
+Journal App W | Spring Boot, Spring Security, JWT, MongoDB, Redis Cloud, Docker, REST APIs, JUnit, Mockito
 
+– Engineered a backend application implementing role-based authorization, preventing unauthorized access.
+– Integrated JWT-based authentication mechanisms to enhance session security and reduce token misuse risks.
+– Designed 12+ RESTful CRUD endpoints using a layered architecture to support distinct User and Admin
+roles with fully enforced access control.
+– Improved application performance by combining MongoDB persistence with Redis caching, reducing database
+response time by 60%.
+– Automated email notification workflows using SMTP and cron jobs, ensuring 100% on-time alerts.
+– Containerized the application using Docker and deployed on Render, enabling scalability and high availability.
 # Spring Boot Repository
 
 This repository contains projects built using **Spring Boot**. Currently, it hosts a single project:
